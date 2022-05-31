@@ -25,7 +25,7 @@ I started my PhD with an exploration into how Biofilms work that expanded into t
 Eventually through my research life, as my work demanded more compute resources, I built my own [computing laboratory](https://www.gizmoquest.com/) while also writing [a book on GPU Computing](https://www.packtpub.com/product/hands-on-gpu-computing-with-python/9781789341072). In 2020, I submitted my PhD pre-thesis to my university in February. Due to the pandemic, my course got extended further onto 2022-23 while I continue to explore my research area. Since my original work started with a study of autism and dolphin therapy, I am currently revisiting and reexploring the same topic with the knowledge that I gained in all these years. At first, many years earlier, my perspective was based on gene analysis using GPU based parallel computing. Currently, I have shifted my focus on cellular and protein dynamics(with or without AI) to understand the same field. So my current work is on understanding the role of autism related cells/proteins and investigating the reasons behind their mutation and deletion.
 
 
-Thank you visiting my page :) !
+Thank you for visiting my page :) !
 
 
 
