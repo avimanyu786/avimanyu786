@@ -28,7 +28,7 @@ My work started with a simple curiosity about dolphin therapy for autism, leadin
 I currently have the privilege of working as a systems scientist at NuNet, which allows me to build a platform that would have the potential bring computational solutions to biological questions. My past experience as a system administrator for two years has been instrumental in shaping my path.
 
 ### Funding My Dreams 💡
-Self-funding my research has been challenging but rewarding. I've tried to give back by contributing articles to platforms like "It's FOSS" and "Linux Handbook" in my spare time. Repurposing my research hardware was also been very helpful in this regard.
+Self-funding my research has been challenging but rewarding. I've tried to give back by contributing articles to platforms like "It's FOSS" and "Linux Handbook" in my spare time. Repurposing my research hardware has also been very helpful in this regard.
 
 ### The Writer, Gamer & Musician 📝🎮🎶
 It's been an honor to write for the Linux community and to be recognized as a [Ubisoft Star Player](https://www.marketscreener.com/quote/stock/UBISOFT-ENTERTAINMENT-4719/news/Ubisoft-Entertainment-Who-are-Ubisoft-s-Star-Players-23200448/). Music also holds a special place in my heart, and I'm fortunate to be able to play the piano and drums.
