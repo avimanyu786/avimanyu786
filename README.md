@@ -34,7 +34,7 @@ Self-funding my research has been challenging but rewarding. I've tried to give 
 It's been an honor to write for the Linux community and to be recognized as a [Ubisoft Star Player](https://www.marketscreener.com/quote/stock/UBISOFT-ENTERTAINMENT-4719/news/Ubisoft-Entertainment-Who-are-Ubisoft-s-Star-Players-23200448/). Music also holds a special place in my heart, and I'm fortunate to be able to play the piano and drums.
 
 ### The Tech-Savvy Researcher 💻
-I've built my computing lab piece by piece, documenting my journey in [a book on GPU Computing](https://github.com/PacktPublishing/Hands-On-GPU-Computing-with-Python). I'm always eager to share what I've learned.
+I've built my [computing lab](https://gizmoquest.com) piece by piece, documenting my journey in [a book on GPU Computing](https://github.com/PacktPublishing/Hands-On-GPU-Computing-with-Python). I'm always eager to share what I've learned.
 
 ### Open Source & Decentralization Advocate 🌐
 I try my best to contribute to the open source community and have been exploring the potentials of decentralization through platforms like NuNet.
