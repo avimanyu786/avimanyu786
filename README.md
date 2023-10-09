@@ -16,13 +16,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World 🤓, 
+👋 Hello and welcome, I'm [Avimanyu Bandyopadhyay](https://linktr.ee/avimanyu). You can call me Avi.
 
-My name is [Avimanyu Bandyopadhyay](https://www.google.com/search?q=avimanyu+bandyopadhyay) or simply Avi. I am a PhD candidate in Bioinformatics. Brought up in different regions in India, I hail from Kolkata. My interest in my current field arose after undertaking [a gene analytics project on autism and dolphin therapy](https://www.researchgate.net/publication/277961318_Computational_Studies_on_Genes_related_to_Echolocation_and_Autism_A_Comparative_Analysis_Investigation_based_on_Parallel_Computing) while pursuing my Master's degree in Computer Science since 2014. I've been extremely passionate about research and learning especially since this time.
+### Who Am I? 🎓
+I'm a Bioinformatics PhD candidate from Kolkata, India. My journey began with a modest Master's project on autism and dolphin therapy back in 2014. I have been grateful for every learning opportunity since then.
 
-I started my PhD with an exploration into how Biofilms work that expanded into the study of multicellularity itself through [exploring](https://github.com/avimanyu786/CellModellerWithCuPy/) unique cell growth models via [CellModeller](https://github.com/cellmodeller/CellModeller). As my research has been purely interest driven, my work had to be self-funded based on my own savings on past work as a system administrator. To keep funding consistent, I took to part time scientific writing and started an [Open Science](https://itsfoss.com/open-science/) series [on It's FOSS](https://itsfoss.com/author/avimanyu/) as well as a [Rethinking DevOps](https://linuxhandbook.com/tag/rethinking-devops/) series [on Linux Handbook](https://linuxhandbook.com/author/avimanyu/). Here, I've also worked full time as a Research Engineer for more than two years. Thanks to my past work as a system admin, I started authoring helpful Linux articles for the community. Gaming is also one of my favourite hobbies and I have shared my experiences about it as well on Linux. I've also had a humble opportunity to [visit Gamescom in 2016  at Cologne, Germany](https://avimanyu786.blogspot.com/2016/09/trip-to-germany-gamescom-2016-marksburg.html), due to my contributions in Ubisoft's "[For Honor](https://www.ubisoft.com/en-us/game/for-honor)" game community. Due to my passion in gaming, I've done my bit by writing gaming utilities and applications in addition to [simplifying scientific simulation work](https://github.com/avimanyu786/TrajectoryMergeAssist) on GitHub. Documentation of different software has also been an important aspect that I consider from a very early stage. So I always try to fill in and enhance any existing material that would eventually sound easier and simpler for community usage/deployment.
+### Why Bioinformatics? 🧬
+My work started with a simple curiosity about dolphin therapy for autism, leading me to broader studies in multicellularity via CellModeller. I'm continually amazed by the wonders of biology and computation.
 
-Eventually through my research life, as my work demanded more compute resources, I built my own [computing laboratory](https://www.gizmoquest.com/) while also writing [a book on GPU Computing](https://www.packtpub.com/product/hands-on-gpu-computing-with-python/9781789341072). In 2020, I submitted my PhD pre-thesis to my university in February. Due to the pandemic, my course got extended further onto 2022-23 while I continue to explore my research area. Since my original work started with a study of autism and dolphin therapy, I am currently revisiting and reexploring the same topic with the knowledge that I gained in all these years. At first, many years earlier, my perspective was based on gene analysis using GPU based parallel computing. Currently, I have shifted my focus on cellular and protein dynamics(with or without AI) to understand the same field. So my current work is on understanding the role of autism related cells/proteins and investigating the reasons behind their mutation and deletion. BUIDLing a decentralized & distributed computing platform with [NuNet](https://nunet.io) is my current priority, in order to achieve this goal some day.
+### The Systems Scientist 🛠️
+I currently have the privilege of working as a systems scientist at NuNet, which allows me to build a platform that would have the potential bring computational solutions to biological questions. My past experience as a system administrator for two years has been instrumental in shaping my path.
 
+### Funding My Dreams 💡
+Self-funding my research has been challenging but rewarding. I've tried to give back by contributing articles to platforms like "It's FOSS" and "Linux Handbook" in my spare time.
 
-Thank you for visiting my page :) !
+### The Writer, Gamer & Musician 📝🎮🎶
+It's been an honor to write for the Linux community and to be recognized as a [Ubisoft Star Player](https://www.marketscreener.com/quote/stock/UBISOFT-ENTERTAINMENT-4719/news/Ubisoft-Entertainment-Who-are-Ubisoft-s-Star-Players-23200448/). Music also holds a special place in my heart, and I'm fortunate to be able to play the piano and drums.
+
+### The Tech-Savvy Researcher 💻
+I've built my computing lab piece by piece, documenting my journey in [a book on GPU Computing](https://github.com/PacktPublishing/Hands-On-GPU-Computing-with-Python). I'm always eager to share what I've learned.
+
+### Open Source & Decentralization Advocate 🌐
+I try my best to contribute to the open source community and have been exploring the potentials of decentralization through platforms like NuNet.
+
+### AI Prompting & Search Engine Specialist 🤖
+I'm fortunate to have gained experience in search engine prompting skills, allowing me to craft more effective queries in this era of generative AI. My existing GitHub repository, while not related to my AI work, is something I view as a learning journey.
+
+### Ongoing Projects 🚀
+As I continue my research, I've been able to revisit my initial interests in autism and dolphin therapy, this time with a little more wisdom and a focus on cellular and protein dynamics.
+
+### The Journey Continues 🛣️
+Though the pandemic has extended my academic journey, every day offers a new lesson and I'm thankful for the extra time to grow and contribute.
+
+Thank you for taking the time to visit and learn about my work. Your interest is truly appreciated.
