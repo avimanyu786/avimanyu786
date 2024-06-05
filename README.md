@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 👋 Hello and welcome, I'm [Avimanyu Bandyopadhyay](https://linktr.ee/avimanyu). You can call me Avi.
 
 ### Who Am I? 🎓
-I'm a Bioinformatics PhD candidate from Kolkata, India. My journey began with a modest Master's project on autism and dolphin therapy back in 2014. I have been grateful for every learning opportunity since then.
+I'm a decentralized researcher from Kolkata, India. My journey began with a modest Master's project on autism and dolphin therapy back in 2014. I have been grateful for every learning opportunity since then.
 
 ### Why Bioinformatics? 🧬
 My work started with a simple curiosity about dolphin therapy for autism, leading me to broader studies in multicellularity via CellModeller. I'm continually amazed by the wonders of biology and computation.
