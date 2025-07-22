@@ -24,9 +24,6 @@ I'm a decentralized researcher from Kolkata, India. My journey began with a mode
 ### Why Bioinformatics? 🧬
 My work started with a simple curiosity about dolphin therapy for autism, leading me to broader studies in multicellularity via CellModeller. I'm continually amazed by the wonders of biology and computation.
 
-### The Systems Scientist 🛠️
-I currently have the privilege of working as a systems scientist at NuNet, which allows me to build a platform that would have the potential bring computational solutions to biological questions. My past experience as a system administrator for two years has been instrumental in shaping my path.
-
 ### Funding My Dreams 💡
 Self-funding my research has been challenging but rewarding. I've tried to give back by contributing articles to platforms like "It's FOSS" and "Linux Handbook" in my spare time. Repurposing my research hardware has also been very helpful in this regard.
 
